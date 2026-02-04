@@ -9,12 +9,16 @@
 
 # **Hobbys** 
 
-- Druming 
-- Reading 
+- Druming
+
+  ![drum kit](drumkit.jpeg)
+- Reading
+
+![open book](book.jpeg)
 - Hanging out with friends
 - chess 
 
-![chess board](chessboard.jpg)
+<img src="chessboard.jpg" style="width:200px">
 
 
 
