@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**sonnydonaldson/sonnydonaldson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hello**
 
-Here are some ideas to get you started:
+**Name**: Sonny Donaldson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Gender Pronouns**:He/Him and Male 
+
+**Past Experiences**: I have been an extra in a movie. I am at school. I can code a little bit
+
+# **Hobbys** 
+
+- Druming 
+- Reading 
+- Hanging out with friends 
+
+
+
+
+# **Why you should choose me**
+
+
+You should choose me becaue I am a good team worker and I can problem solve well. This means that if anything come up you wont have to worry about me not knowing what to do i can just work it out and on top of all this i will always show up to work. 
+
+
+
+
+###### made 2026
