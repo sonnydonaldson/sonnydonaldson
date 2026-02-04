@@ -22,7 +22,7 @@
 
 You should choose me becaue I am a good team worker and I can problem solve well. This means that if anything come up you wont have to worry about me not knowing what to do i can just work it out and on top of all this i will always show up to work. 
 
-![chess boad](chess board.jpg)
+![chess board](chess board.jpg)
 
 
 ###### made 2026
