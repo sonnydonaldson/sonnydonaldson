@@ -11,7 +11,8 @@
 
 - Druming 
 - Reading 
-- Hanging out with friends 
+- Hanging out with friends
+- chess 
 
 
 
@@ -21,7 +22,7 @@
 
 You should choose me becaue I am a good team worker and I can problem solve well. This means that if anything come up you wont have to worry about me not knowing what to do i can just work it out and on top of all this i will always show up to work. 
 
-
+![chess boad](https://www.chessbazaar.com/combo-of-dominator-series-chess-pieces-in-ebony-box-wood-black-anigre-maple-matte-finish-chess-board-4-0-king.html?srsltid=AfmBOoryHyrGwX_fIzOX5EaZxmNK_DOFHyNZf9qGkyXJntH8wR-kaPWn)
 
 
 ###### made 2026
